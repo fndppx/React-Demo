@@ -12,8 +12,6 @@ var  {
 
 } = React;
 
-
-
 var  AnimationExperimental = require('AnimationExperimental');
 var  Dimensions = require('Dimensions');
 var  screenWidth = Dimensions.get('window').width;

@@ -1,7 +1,7 @@
 /**
  * Created by SXJH on 16/12/19.
  */
-'use strict'
+// 'use strict'
 
 var React = require('react-native');
 var {
@@ -9,6 +9,7 @@ var {
     Text,
     View,
 } = React;
+import React, { Component } from 'react';
 
 
 var  LeftComponent = React.createClass({
